@@ -38,7 +38,7 @@ See [scripts/](scripts/) for batch and checkpoint runners.
 
 | Target | Result | Jaccard |
 |:------:|:------:|:-------:|
-| ![](kiwi_target.png)        | ![](kiwi_result.png)        | **0.976** |
-| ![](psl_logo_target.png)    | ![](psl_logo_result.png)    | **0.956** |
-| ![](github_logo_target.png) | ![](github_logo_result.png) | **0.974** |
-| ![](yinyang_target.png)     | ![](yinyang_result.png)     | **0.983** |
+| <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/a7a42a2f-cadd-492f-b682-f79aac064964" /> | <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/d2f62f10-d835-4b1f-938f-3d21ffadac8d" /> | **0.976** |
+| <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/bd71c257-3583-4cd3-bda3-bc5f62b4e9a9" /> | <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/6e701b29-4348-40f1-9cb1-9ae680d4e9ff" /> | **0.956** |
+| <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/20946749-d78a-4318-9b4c-8e4c2ee4d884" /> | <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/b70a7f03-78ab-4556-8c9d-db72391fd763" /> | **0.974** |
+| <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/d73c4822-6e6b-46c6-ac6e-d3686d626f2c" /> | <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/4171ffc6-f773-4638-8e85-b7b3c8501a91" /> | **0.983** |
